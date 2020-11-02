@@ -1,0 +1,16 @@
+Hi Myself vinay having overall 5.5 years of experience
+2 years of experience having windows admin
+remaining having 3.5 years of experience into azure devops
+in azure devops i have chance to work multiple tools and technologies for creating CI,CD,CT
+in azure devops work for managing monitoring and creating build pipelines.
+in ci,we followed gated build,daily build,scheduled build as well as
+in cd,we integrated service principle names deploy the component to azure
+in ct,we are integrated sonar cloud for code quality check and also work for cost optimazation for the release of cost of business
+how we are implemented means we are implements as a code
+hence the infrastructure need to create an fly
+and also worked on some azure resources
+like using powershell,arm templates,terraform for  the infrastructure as a code
+and work provisioning at infrastructure like storage account,app service,logical app,functional app current working jira  and service no ticket
+service no ticket working for customer for resolving the issues
+sometimes i need to create new branches and add
+these are the activities performing with the current project.  
